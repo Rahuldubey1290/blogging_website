@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/blog_website",
+    "prod_uri": "mysql://root:@localhost/blog_website",
+    "fb_url": "https://www.facebook.com/codingthunder",
+    "tw_url": "https://www.twitter.com/codingthunder",
+    "git_url": "https://www.github.com/codingthunder",
+    "blog_name": "Thinker",
+    "tag_line": "To Know Everything",
+    "gmail_user": "r******@gmail.com",
+    "gmail_pass": "*******",
+    "no_of_posts": "3",
+    "admin_user": "rahul",
+    "admin_pass": "9713893303",
+    "upload_location": "C:\\Users\\my pc\\PycharmProjects\\Blogging_Website\\static"
+
+  }
+
+}
